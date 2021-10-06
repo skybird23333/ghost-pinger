@@ -42,4 +42,3 @@ client.on('messageCreate', async message => {
 })
 
 client.login(token)
-client.login('Njg4NzQyNTM1NDE3NTYxMTU3.Xm4veA.V-IBFjPCib1BMNKgbtcbSf8bNLw')
