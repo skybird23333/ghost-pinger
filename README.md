@@ -1,3 +1,6 @@
+# This project is useless
+you need admin to invite the bot(and bot needs admin because it breaks i think)
+
 # ghost-pinger
 I wrote this in 5 minutes
 
